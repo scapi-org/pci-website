@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en
+name: 'Pilipinas Climbing'
+primary: true
+siteGroup: 3db3f32a-8cba-434b-8153-1a24c3d399a5 # Pilipinas Climbing
+sortOrder: 1

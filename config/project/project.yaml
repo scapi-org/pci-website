@@ -1,0 +1,22 @@
+dateModified: 1762846684
+email:
+  fromEmail: hello@marksteve.com
+  fromName: 'Pilipinas Climbing'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    3db3f32a-8cba-434b-8153-1a24c3d399a5: 'Pilipinas Climbing' # Pilipinas Climbing
+system:
+  edition: solo
+  live: true
+  name: 'Pilipinas Climbing'
+  retryDuration: null
+  schemaVersion: 5.8.0.3
+  timeZone: Asia/Singapore
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
